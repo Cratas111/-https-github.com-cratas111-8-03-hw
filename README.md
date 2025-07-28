@@ -42,10 +42,10 @@
 
 **Решения:**
 #Задание 1#
-![Скриншот:] (https://github.com/Cratas111/-https-github.com-cratas111-8-03-hw/blob/4ed5907968a2ce15eda691bf9b38bff044571779/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%201.png)
+![Скриншот:] (Скриншот 1)
 
 
 #Задание 2#
-![Скриншот репозитория с загруженными файлами:] (https://github.com/Cratas111/-https-github.com-cratas111-8-03-hw/blob/4ed5907968a2ce15eda691bf9b38bff044571779/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%203.png)
+![Скриншот репозитория с загруженными файлами:] (Скриншот 3)
 
 фаил gitlab-ci.yml (https://github.com/Cratas111/-https-github.com-cratas111-8-03-hw/blob/4ed5907968a2ce15eda691bf9b38bff044571779/gitlab-ci.yml)
