@@ -50,4 +50,4 @@
 
 ![Скриншот репозитория с загруженными файлами:](Скриншот3.png)
 
-фаил gitlab-ci.yml (https://github.com/Cratas111/-https-github.com-cratas111-8-03-hw/blob/4ed5907968a2ce15eda691bf9b38bff044571779/gitlab-ci.yml)
+[фаил gitlab-ci.yml](gitlab-ci.yml)
